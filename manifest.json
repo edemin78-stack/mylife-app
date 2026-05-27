@@ -1,0 +1,22 @@
+{
+  "name": "MyLife — Финансы и задачи",
+  "short_name": "MyLife",
+  "description": "Личные финансы, задачник и ежедневный чек-лист",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b0b12",
+  "theme_color": "#0b0b12",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
